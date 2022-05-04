@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ![İmg](https://i.hizliresim.com/rm0sf3n.png)
 
-[Patika.dev](https://app.patika.dev/paths)
+[Patika.dev](https://patika.dev)
